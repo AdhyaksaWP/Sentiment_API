@@ -3,3 +3,4 @@ djangorestframework
 sastrawi
 transformers
 gunicorn
+django-cors-headers
