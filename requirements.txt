@@ -1,0 +1,5 @@
+django
+djangorestframework
+sastrawi
+transformers
+gunicorn
