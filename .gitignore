@@ -1,2 +1,6 @@
 torch-2.6.0-cp310-cp310-manylinux1_x86_64.whl
 sentiment_project/model
+.qodo
+ai_model/qodo
+sentiment/__pycache__
+sentiment_project/__pycache__

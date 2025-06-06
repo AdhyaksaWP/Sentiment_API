@@ -1,0 +1,10 @@
+pandas==2.2.1
+torch==2.2.2
+transformers==4.44.0
+scikit-learn==1.5.2
+selenium==4.24.0
+pyautogui==0.9.54
+
+
+
+
