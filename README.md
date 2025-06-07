@@ -20,6 +20,7 @@ To train the model yourself:
 1. Install the required dependencies:
 
    ```bash
+   cd ai_model_train
    pip install -r training_requirements.txt
    ```
 
